@@ -1,11 +1,18 @@
-📦 Courier Management System
+# 📦 Courier Management System
+
 <div align="center">
-[Show Image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-Show Image
-Show Image
-A sleek, powerful courier management solution built with pure Java ✨
-Features • Installation • Usage • Demo
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Console](https://img.shields.io/badge/Console_App-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![File System](https://img.shields.io/badge/File_Storage-4285F4?style=for-the-badge&logo=files&logoColor=white)
+
+*A sleek, powerful courier management solution built with pure Java* ✨
+
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Demo](#-demo)
+
 </div>
+
+---
 
 ## 🚀 About
 

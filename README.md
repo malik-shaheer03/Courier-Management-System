@@ -188,7 +188,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - 🌐 [Portfolio](https://shaheer-portfolio-omega.vercel.app)  
 - 💼 [LinkedIn](https://linkedin.com/in/malik-shaheer03)  
 - 🐙 [GitHub](https://github.com/malik-shaheer03)  
-- 📸 [Instagram](https://instagram.com/your_instagram_handle)  
+- 📸 [Instagram](https://instagram.com/malik_shaheer03)  
 - 📧 [Email Me](mailto:youremail@example.com)  
 
 ---
